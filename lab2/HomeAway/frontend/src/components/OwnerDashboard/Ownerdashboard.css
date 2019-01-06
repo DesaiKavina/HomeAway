@@ -1,0 +1,29 @@
+#mainbody {
+    background-color: #f4f4f4;
+    padding-top: 60px;
+    padding-bottom: 10px;
+    border: 1px solid rgb(206, 202, 202);
+    min-height: 500px;
+}
+
+.main-content{
+    background-color: white;
+    width: 90%;
+    box-shadow: 5px 5px rgb(241, 237, 237);
+    min-height : 300px;
+    padding-bottom: 30px;
+}
+
+.property_detials{
+    margin : 10px;
+}
+
+.bookingmessage{
+    color : blue;
+}
+
+/* .for-image{
+    background-image: url("C:/Users/DELL/Desktop/SJSU/Sem 1/CMPE273-Shim/CMPE273-16/lab1/HomeAway/backend/uploads/67380.jpg");
+    height: 100px;
+    width : 100px;
+} */
